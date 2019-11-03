@@ -7,3 +7,10 @@ C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Lists\o
 C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
 C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Lists\obj\Debug\Lists.exe
 C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Lists\obj\Debug\Lists.pdb
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\bin\Debug\Lists.exe.config
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\bin\Debug\Lists.exe
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\bin\Debug\Lists.pdb
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\obj\Debug\Lists.exe
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\Lists\obj\Debug\Lists.pdb

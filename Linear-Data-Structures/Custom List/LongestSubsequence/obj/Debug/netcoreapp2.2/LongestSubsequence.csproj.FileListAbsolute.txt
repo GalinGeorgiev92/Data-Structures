@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\bin\Debug\netcoreapp2.2\LongestSubsequence.deps.json
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\bin\Debug\netcoreapp2.2\LongestSubsequence.runtimeconfig.json
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\bin\Debug\netcoreapp2.2\LongestSubsequence.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\bin\Debug\netcoreapp2.2\LongestSubsequence.dll
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\bin\Debug\netcoreapp2.2\LongestSubsequence.pdb
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\obj\Debug\netcoreapp2.2\LongestSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\obj\Debug\netcoreapp2.2\LongestSubsequence.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\obj\Debug\netcoreapp2.2\LongestSubsequence.AssemblyInfo.cs
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\obj\Debug\netcoreapp2.2\LongestSubsequence.dll
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\obj\Debug\netcoreapp2.2\LongestSubsequence.pdb
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\LongestSubsequence\obj\Debug\netcoreapp2.2\LongestSubsequence.csprojAssemblyReference.cache
