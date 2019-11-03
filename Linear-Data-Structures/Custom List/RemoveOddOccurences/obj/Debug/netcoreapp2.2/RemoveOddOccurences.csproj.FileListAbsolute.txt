@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\bin\Debug\netcoreapp2.2\RemoveOddOccurences.deps.json
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\bin\Debug\netcoreapp2.2\RemoveOddOccurences.runtimeconfig.json
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\bin\Debug\netcoreapp2.2\RemoveOddOccurences.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\bin\Debug\netcoreapp2.2\RemoveOddOccurences.dll
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\bin\Debug\netcoreapp2.2\RemoveOddOccurences.pdb
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\obj\Debug\netcoreapp2.2\RemoveOddOccurences.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\obj\Debug\netcoreapp2.2\RemoveOddOccurences.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\obj\Debug\netcoreapp2.2\RemoveOddOccurences.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\obj\Debug\netcoreapp2.2\RemoveOddOccurences.AssemblyInfo.cs
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\obj\Debug\netcoreapp2.2\RemoveOddOccurences.dll
+C:\Users\acer\Desktop\Programming\Data Structures\Linear-Data-Structures\Custom List\RemoveOddOccurences\obj\Debug\netcoreapp2.2\RemoveOddOccurences.pdb
