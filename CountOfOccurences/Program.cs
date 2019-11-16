@@ -22,7 +22,7 @@ namespace CountOfOccurences
                 result[input[i]]++;
             }
 
-            foreach (var kvp in result.OrderByDescending(x => x.Value))
+            foreach (var kvp in result)
             {
                 Console.WriteLine($"{kvp.Key} -> {kvp.Value} times");
             }
