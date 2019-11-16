@@ -11,10 +11,9 @@ namespace CumstomArray
         public CustomArray()
         {
             this.data = new T[4];
-            this.Length = 4;
         }
 
-        public int Length { get; private set; }
+        public int Length { get; private set; } = 4;
 
         public T this[int index]
         {
@@ -22,7 +21,7 @@ namespace CumstomArray
             {
                 if (index >= this.Length || index < 0)
                 {
-                    throw new ArgumentOutOfRangeException();
+                    throw new IndexOutOfRangeException();
                 }
 
                 return this.data[index];
@@ -32,7 +31,7 @@ namespace CumstomArray
             {
                 if (index >= this.Length || index < 0)
                 {
-                    throw new ArgumentOutOfRangeException();
+                    throw new IndexOutOfRangeException();
                 }
 
                 this.data[index] = value;
@@ -51,7 +50,7 @@ namespace CumstomArray
 
         public string ToString()
         {
-            var result = "";
+            var result = string.Empty;
 
             for (int i = 0; i < data.Length; i++)
             {

@@ -12,7 +12,6 @@ namespace CumstomArray
             custom.Add(0, 1);
             custom.Add(1, 5);
 
-
             for (int i = 0; i < custom.Length; i++)
             {
                 Console.WriteLine(custom[i]);
