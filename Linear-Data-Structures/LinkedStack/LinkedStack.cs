@@ -5,9 +5,9 @@ using System.Text;
 
 namespace LinkedStack
 {
-    public class LinkedStack<T> : IEnumerable<T>
+    public partial class LinkedStack<T> : IEnumerable<T>
     {
-        public int Count { get; set; }
+        public int Count { get; private set; }
         private StackNode top;
 
         public void Push(T element)
@@ -57,22 +57,9 @@ namespace LinkedStack
             return array;
         }
 
-        private class StackNode
-        {
-            public T Value { get; set; }
-
-            public StackNode Next { get; set; }
-
-            public StackNode(T value, StackNode next)
-            {
-                this.Value = value;
-                this.Next = next;
-            }
-        }
-
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            return this.GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator()
