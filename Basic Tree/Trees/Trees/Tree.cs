@@ -30,7 +30,11 @@ public class Tree<T>
 
     public void Each(Action<T> action)
     {
-        throw new NotImplementedException();
+        action(this.Value);
+        foreach (var child in this.Children)
+        {
+            child.Each(action);
+        }
     }
 
     public IEnumerable<T> OrderDFS()
