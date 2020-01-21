@@ -19,7 +19,7 @@ public class ArrayList<T>
     {
         get
         {
-            if (index >= this.Count)
+            if (index >= this.Count || index < 0)
             {
                 throw new ArgumentOutOfRangeException();
             }
@@ -29,7 +29,7 @@ public class ArrayList<T>
 
         set
         {
-            if (index >= this.Count)
+            if (index >= this.Count || index < 0)
             {
                 throw new ArgumentOutOfRangeException();
             }
